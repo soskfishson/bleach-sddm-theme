@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Fishsons Bleach SDDM
+Description=Bleach inspired SDDM theme
+Author=Fishson
+Copyright=(c) 2024 Fishson. Portions (c) 2016 KDE Breeze Team
+License=GPL-3.0-or-later
+Screenshot=preview.png
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-API=2.0
+QtVersion=6
+Website=https://github.com/soskfishson/bleach-sddm-theme
